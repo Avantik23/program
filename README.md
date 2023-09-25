@@ -29,4 +29,11 @@
 |data 1| data2| data3|
 |data 1| data2|[Click here for python file](https://github.com/Avantik23/program/blob/main/p.py)|
 
+```python
+print ("Hello World")
+```
+```java
+System.out.println("Hello World")
+```
+
 
