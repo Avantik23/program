@@ -23,6 +23,7 @@
 ![Alt text](image.png)
 
 |Column name 1| Coulumn name 2| Column name 3|
+---|---|---|
 |data 1| data2| data3|
 |data 1| data2| data3|
 |data 1| data2| data3|
